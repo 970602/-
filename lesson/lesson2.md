@@ -12,4 +12,5 @@
 4.通过上方按钮去控制下一步
 ![image](https://github.com/user-attachments/assets/3127ebc9-399f-4132-bc8c-30aff83d663f)
 5.完成debug
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0bea6af1-19cb-4845-a80d-b7f7188c6c8e)
+
