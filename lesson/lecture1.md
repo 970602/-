@@ -1,6 +1,7 @@
-![image](https://github.com/970602/InternLM3-Course/assets/144504645/8c3189ee-fa45-499e-9221-5db00a174eba)# 第1节课作业
+# 第1节课作业
 
 # 闯关任务    完成SSH连接与端口映射并运行`hello_world.py
+![image](https://github.com/970602/InternLM3-Course/assets/144504645/8c3189ee-fa45-499e-9221-5db00a174eba)
 ## 使用vscode完成ssh连接
 ![image](https://github.com/970602/InternLM3-Course/assets/144504645/301e0968-d92f-44a6-a44c-c386c4b0e73b)
 ## 在vscode完成端口映射，并在浏览器上打开页面
